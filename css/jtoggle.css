@@ -1,0 +1,12 @@
+span.jtoggle-clicker {
+  border-bottom: 1px dotted;
+}
+
+span.jtoggle-clicker:hover {
+  cursor: pointer;
+}
+
+span.jtoggle-content {
+  margin-top: 1em;
+  display: block;
+}
